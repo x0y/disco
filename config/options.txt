@@ -1,0 +1,9 @@
+[Credentials]
+Username = exampleemail@example.com
+Password = examplepassword
+
+[Permissions]
+OwnerID = 112233445566778
+
+[Chat]
+CommandPrefix = !
